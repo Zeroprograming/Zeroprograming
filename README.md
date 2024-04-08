@@ -1,3 +1,5 @@
+# Desactualizado / Outdated
+
 # 💫 About Me:
 🌱 I am currently learning react js and expo as a hobby.<br>💬 Ask me about any language or subject, recommendations always come in handy and more on any interesting topic.
 
